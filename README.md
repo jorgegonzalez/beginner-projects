@@ -369,6 +369,7 @@ Hint: Use a for loop to iterate all possible solutions.
 ## Solutions
 lutherannn - https://github.com/lutherannn/beginner-projects-solutions
 linnspencer-00 - https://github.com/linnspencer-00/Beginner-project-solutions2
+Allanymiguel - https://github.com/Allanymiguel/begginer-project-solutions
 
 ## Contributing
 Contributing to this repository in any way is encouraged.
